@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2141" started-at="2020-02-15T06:13:41Z" finished-at="2020-02-15T06:13:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2141" started-at="2020-02-15T06:13:41Z" finished-at="2020-02-15T06:13:43Z">
+      <class name="Test.BasicsOfRestAssured">
+        <test-method status="PASS" signature="TestF1()[pri:0, instance:Test.BasicsOfRestAssured@271053e1]" name="TestF1" duration-ms="2089" started-at="2020-02-15T11:43:41Z" finished-at="2020-02-15T11:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestF1 -->
+      </class> <!-- Test.BasicsOfRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
