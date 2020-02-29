@@ -1,8 +1,6 @@
 package com.basic.MyGoogleRestAssured;
 
 
-
-
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
