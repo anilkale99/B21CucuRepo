@@ -1,6 +1,8 @@
 Feature: First GET with Driven Rest Assured test106
 
 
+
+
 Scenario : Test my Get Method106
 Given  user start the rest asured test
 When user hit the get request
